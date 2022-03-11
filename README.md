@@ -4,13 +4,13 @@
  # performed data analysis between many factors
  
  # Some Key points on what have been done in this project
- ## Profitability of Movies
- ## Language based Gross Analysis
- ## Comparison of Gross and Profit for Different Genres,
- ## Recommendation systems based on Actors, Movies, Genres
+ #### Profitability of Movies
+ #### Language based Gross Analysis
+ #### Comparison of Gross and Profit for Different Genres,
+ #### Recommendation systems based on Actors, Movies, Genres
  
  
-
+###### some snapshot of project
 
 ![Screenshot (24)](https://user-images.githubusercontent.com/57831675/157844430-5abee5ac-0ac7-4662-a09a-cf0f54e42589.png)
 ![Screenshot (25)](https://user-images.githubusercontent.com/57831675/157844456-5dbff167-38f1-4b33-a991-968b3fdee284.png)
